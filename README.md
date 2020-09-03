@@ -27,7 +27,7 @@ Sim, pois facilita para um desenvolvedor para que seja dado continuidade no Proj
 ## Integrantes da Equipe
 - Germano Manente Neto
 - Matheus Gavelli (preencher o nome completo)
-- Bruno (preencher o nome completo)
+- Bruno Marques França Araujo (preencher o nome completo)
 - Thiago (preencher o nome completo)
 
 ## Cronograma de Desenvolvimento - Projeto Integrador I
